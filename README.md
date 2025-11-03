@@ -1,15 +1,15 @@
-## HSE FCS Multimodal Modals Course
+# HSE FCS Multimodal Modals Course
 
 Course materials for the “Multimodal Models” course at HSE Faculty of Computer Science: lectures, notebooks, and homework assignments.
 
-###  Course authors and lectures
+##  Course authors and lectures
 
 Boris Zhestkov
 
 Albina Burlova
 
 
-### Syllabus
+## Syllabus
 
 **week01 · Multimodality Basics**  
 - Core notions and problem space: modalities and signals. Representation–alignment–fusion. Typical pipelines. Canonical tasks (retrieval, captioning, VQA, grounding). Brief overview of metrics.
@@ -35,19 +35,19 @@ Albina Burlova
 **week07 · Evaluation & Datasets**  
 - Benchmarks for VLM/MLLM. Dataset creation basics. Metric limitations and common pitfalls.
 
-### Homeworks & Deadlines
+## Homeworks & Deadlines
 
-**Late policy:** 0.1 points per day, capped at −0.7 for that homework.  
+Late policy: 0.1 points per day, capped at −0.7 for that homework.  
 Re-submissions are allowed until the hard deadline; the latest counts.
 
 All deadlines are MSK 23:59.
 
 | HW  | Task              |         Release |           Soft |             Hard |
 | --- |-------------------|----------------:|---------------:|-----------------:|
-| HW1 | CLAP→CLIP adapter |  **Tue 11 Nov** | **Fri 21 Nov** |   **Fri 28 Nov** |
-| HW2 | MLLM captioning   |  **Fri 21 Nov** | **Tue 02 Dec** |   **Mon 08 Dec** |
-| HW3 | VQA with RAG      |  **Tue 02 Dec** | **Tue 16 Dec** |   **Fri 19 Dec** |
+| HW1 | CLAP→CLIP adapter |  Tue 11 Nov | Fri 21 Nov |   Fri 28 Nov |
+| HW2 | MLLM captioning   |  Fri 21 Nov | Tue 02 Dec |   Mon 08 Dec |
+| HW3 | VQA with RAG      |  Tue 02 Dec | Tue 16 Dec |   Fri 19 Dec |
 
-### Grading
+## Grading
 
 **Final grade:** `0.3 * HW1 + 0.3 * HW2 + 0.4 * HW3`
