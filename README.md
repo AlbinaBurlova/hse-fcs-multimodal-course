@@ -2,7 +2,7 @@
 
 Course materials for the “Multimodal Models” course at HSE Faculty of Computer Science: lectures, notebooks, and homework assignments.
 
-##  Course authors and lectures
+## Course authors and lecturers
 
 Boris Zhestkov
 
