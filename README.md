@@ -30,7 +30,7 @@ Course materials for the “Multimodal Models” course at HSE Faculty of Comput
 
 ## Homeworks & Deadlines
 
-Late policy: 0.1 points per day, capped at −0.7 for that homework.  
+Late policy: 1 point deducted per day late, capped at 7 points per homework.  
 Re-submissions are allowed until the hard deadline; the latest counts.
 
 All deadlines are MSK 23:59.
