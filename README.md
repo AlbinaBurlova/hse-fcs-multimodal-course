@@ -1,32 +1,29 @@
-# HSE FCS Multimodal Modals Course
+# HSE FCS Multimodal Models Course
 
-Course materials for the “Multimodal Models” course at HSE Faculty of Computer Science: lectures, notebooks, and homework assignments.
+Course materials for the “Multimodal Models” course at HSE Faculty of Computer Science (2026-2027): lectures, notebooks, and homework assignments.
 
 ## Syllabus
 
-**week01 · Multimodality Basics**  
-- Core notions and problem space: modalities and signals. Representation–alignment–fusion. Typical pipelines. Canonical tasks (retrieval, captioning, VQA, grounding). Brief overview of metrics.
+**week01 · Multimodality Basics: Alignment & Fusion**
+- Core notions and problem space: modalities and signals. Unimodal encoders. Representation, alignment, and fusion.
 
-**week02 · Contrastive Learning: CLIP/CLAP & Zero-shot**  
-- Dual-encoder objectives. Hard negatives. CLIP (image–text) and CLAP (audio–text). Zero-shot use. Limitations.
+**week02 · Contrastive Learning: CLIP/CLAP**
+- Contrastive learning objectives. CLIP (image-text) and CLAP (audio-text). Multimodal representation spaces and their applications.
 
-**week03 · Unimodal Encoders (Text · Vision · Audio · Video)**  
-- Vision: CNN/ViT backbones.  
-- Audio: spectrograms/MFCC and basic audio encoders.  
-- Video: 3D CNN / ViViT (intro).
-- Text: tokenization and compact encoders (brief).
+**week03 · Multimodal Language Models (VLM/MLLM)**
+- Connectors for input modalities. Visual context budget. Post-training and efficient fine-tuning methods.
 
-**week04 · Multimodal Fusion & Joint Encoders**  
-- Early/late/joint fusion. Cross-modal attention. Tasks: VQA, ITM, grounding, captioning.
+**week04 · Generative Multimodal Models**
+- Architectures for multimodal generation. Output heads and decoders for different modalities.
 
-**week05 · Generative Multimodal Models**  
-- Text to Image generation (incl. Stable Diffusion basics). Captioning stacks and decoding. Reducing hallucinations at a high level.
+**week05 · Streaming & Duplex Multimodal Models**
+- Streaming inputs and outputs. Duplex architectures. Simultaneous perception and generation.
 
-**week06 · Multimodal LLMs (MLLMs)**  
-- Connectors/adapters to LLMs. Frozen vs. instruction-tuned LLMs. RAG for multimodal QA. Thinker-talker. Instruction-tuning, preference optimization in multimodal settings. 
+**week06 · Vision-Language-Action (VLA) Models**
+- VLA architectures. Action representations and generation from visual and language inputs.
 
-**week07 · Evaluation & Datasets**  
-- Benchmarks for VLM/MLLM. Dataset creation basics. Metric limitations and common pitfalls.
+**week07 · Evaluation, Datasets & Introduction to RL**
+- Quality and performance evaluation. Benchmarks and metric limitations. Dataset creation basics. Introduction to reinforcement learning.
 
 ## Homeworks & Deadlines
 
@@ -35,11 +32,11 @@ Re-submissions are allowed until the hard deadline; the latest counts.
 
 All deadlines are MSK 23:59.
 
-| HW  | Task              |         Release |           Soft |             Hard |
-| --- |-------------------|----------------:|---------------:|-----------------:|
-| HW1 | CLAP→CLIP adapter |  Sat 15 Nov | Wed 26 Nov |   Sun 30 Nov |
-| HW2 | MLLM captioning   |  Thu 27 Nov | Fri 12 Dec |   Tue 16 Dec |
-| HW3 | VQA challenge     |  Fri 12 Dec | Fri 19 Dec |   Wed 24 Dec |
+| HW  | Task                                       | Release | Soft | Hard |
+| --- | ------------------------------------------ | ------: | ---: | ---: |
+| HW1 | CLAP→CLIP adapter                          |       - |    - |    - |
+| HW2 | Efficient DocQA Challenge                  |       - |    - |    - |
+| HW3 | RL fine-tuning of a vision-language policy |       - |    - |    - |
 
 ## Grading
 
