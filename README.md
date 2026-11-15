@@ -27,14 +27,14 @@ Course materials for the “Multimodal Models” course at HSE Faculty of Comput
 
 ## Homeworks & Deadlines
 
-Late policy: 1 point deducted per day late, capped at 7 points per homework.  
+Late policy: 1 point deducted per day late.  
 Re-submissions are allowed until the hard deadline; the latest counts.
 
 All deadlines are MSK 23:59.
 
 | HW  | Task                                       | Release | Soft | Hard |
 | --- | ------------------------------------------ | ------: | ---: | ---: |
-| HW1 | CLAP→CLIP adapter                          |       - |    - |    - |
+| HW1 | CLAP→CLIP adapter                          | 15.11.2026 | 29.11.2026 | 01.12.2026 |
 | HW2 | Efficient DocQA Challenge                  |       - |    - |    - |
 | HW3 | RL fine-tuning of a vision-language policy |       - |    - |    - |
 
